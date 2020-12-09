@@ -8,5 +8,6 @@ class Helpers
       !!@user
     else
       false
+    end
   end
 end
